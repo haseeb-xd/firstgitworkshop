@@ -3,7 +3,9 @@ import java.util.*;
 
 public class ArrayListTest 
 {
-	
+
+
+	static int x=3;
 	
 	public static void main(String args[])
 	{
